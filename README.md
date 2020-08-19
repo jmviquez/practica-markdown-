@@ -17,6 +17,8 @@
 >"En un lugar de la mancha..."
 
 
-Miguel de cervantes  
-[OPG](https://www.ogc.org/)  
+Miguel de cervantes
+\
+[OPG](https://www.ogc.org/)
+\
 [universidad de costa rica](https://www.ucr.ac.cr/)
