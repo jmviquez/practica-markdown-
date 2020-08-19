@@ -10,3 +10,4 @@
 .....
 <h5>Encabezado HTML nivel 5</h5>
 <h6>Encabezado HTML nivel 6</h6>
+*texto en italica*, _Texto en italica_
