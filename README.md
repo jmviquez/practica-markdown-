@@ -12,7 +12,7 @@
 <h6>Encabezado HTML nivel 6</h6>
 *texto en MD italica*, _Texto en MD italica_
 
-**Texto en MD en negrita asteriscos**, __Texto md en negrita con guio bajo__
+**Texto en MD en negrita asteriscos**, __Texto md en negrita con guio bajo__  
 <strong>Texto HTML en negrita</strong>
 >"En un lugar de la mancha..."
 
