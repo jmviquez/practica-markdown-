@@ -51,7 +51,7 @@ Lista no numerada HTML
   <li> primer elemento</li>
 </ul>
 <Table>
-  <tr><td>Nombre</td><td>apellido</td></tr>
+  <tr><th>Nombre</th><th>apellido</th></tr>
    <tr><td>manuel</td><td>vargas</td></tr>
   <tr><td>juan</td><td>perez</td></tr>
   <tr><td>maria</td><td>perez</td></tr>
