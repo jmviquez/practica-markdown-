@@ -23,7 +23,6 @@ Miguel de cervantes
 \
 Imagen remota R
 [universidad de costa rica](https://www.ucr.ac.cr/)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png)   
 
 
 
