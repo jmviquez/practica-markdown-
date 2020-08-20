@@ -30,9 +30,9 @@ Imagen remota R
 Imagen local logo R  
 ![](im.png)
 Listas 
-1.primer elemento 
-2.segundo elemento 
-3.tercer elemento
+1. primer elemento 
+2. segundo elemento 
+3. tercer elemento
 Lista HTML
 <ol>
   <li>primer elemento</li>
