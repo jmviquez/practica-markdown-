@@ -39,3 +39,15 @@ Lista HTML
   <li>segundo elemento</li>
   <li>tercer elemento</li>
  <ol>
+Lista no numerada 
+   -Primer
+       primer sub elemento
+   -Segundo
+   -Tercero
+Lista no numerada HTML
+<ul>
+  <li> primer elemento</li>
+  <li> primer elemento</li>
+  <li> primer elemento</li>
+<\ul>
+  
