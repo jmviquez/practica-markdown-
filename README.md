@@ -40,14 +40,17 @@ Lista HTML
   <li>tercer elemento</li>
  <ol>
 Lista no numerada 
-   -Primer
+   - Primer
        primer sub elemento
-   -Segundo
-   -Tercero
+   - Segundo
+   - Tercero
 Lista no numerada HTML
 <ul>
   <li> primer elemento</li>
   <li> primer elemento</li>
   <li> primer elemento</li>
-<\ul>
+</ul>
+<Table>
+  <tr><td>Nombre</td><td>apellido</td></tr>
+</Table>
   
