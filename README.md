@@ -52,5 +52,8 @@ Lista no numerada HTML
 </ul>
 <Table>
   <tr><td>Nombre</td><td>apellido</td></tr>
+   <tr><td>manuel</td><td>vargas</td></tr>
+  <tr><td>juan</td><td>perez</td></tr>
+  <tr><td>maria</td><td>perez</td></tr>
 </Table>
   
